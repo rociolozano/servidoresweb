@@ -1,0 +1,16 @@
+<?php
+$dia=158;//esto es un comentario
+$sueldo=56;
+$nombre="rodrigo";
+$tipo="efectivo";
+echo($dia);
+echo($sueldo);
+echo($nombre);
+echo($tipo);
+?>
+<?php
+define ("puesto","verdana");
+define ("jefe","ana");
+echo "departamento".'<br>'.puesto.'<br>';
+echo "responsable".'<br>'.jefe.'<br>';
+?>
